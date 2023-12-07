@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "71b01ed4-1e0d-49ae-9339-0f026e1e439a",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "71b01ed4-1e0d-49ae-9339-0f026e1e439a@6c48a",
+      "displayName": "game_fangkuai",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "71b01ed4-1e0d-49ae-9339-0f026e1e439a",
+        "isUuid": true,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "71b01ed4-1e0d-49ae-9339-0f026e1e439a@f9941",
+      "displayName": "game_fangkuai",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 226,
+        "height": 226,
+        "rawWidth": 226,
+        "rawHeight": 226,
+        "borderTop": 113,
+        "borderBottom": 113,
+        "borderLeft": 110,
+        "borderRight": 116,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "71b01ed4-1e0d-49ae-9339-0f026e1e439a@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "71b01ed4-1e0d-49ae-9339-0f026e1e439a@f9941"
+  }
+}
